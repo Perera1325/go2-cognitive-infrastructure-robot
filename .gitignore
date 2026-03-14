@@ -6,3 +6,6 @@ __pycache__/
 *.pt
 datasets/*
 !datasets/.gitkeep
+ros_ws/build/
+ros_ws/install/
+ros_ws/log/
